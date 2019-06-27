@@ -1,13 +1,16 @@
 {
-  "name": "atomic-css",
-  "version": "1.0.0",
-  "description": "",
+  "name": "cbs-atomic-css",
+  "version": "0.0.1",
+  "description": "Personal atomic css design system",
   "main": "index.js",
+  "repository": "github:canburaks/atomic-css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["atomic-css", "css"],
+  "keywords": [
+    "atomic-css",
+    "css"
+  ],
   "author": "",
-  "repository": "github:canburaks/atomic-css",
   "license": "ISC"
 }
