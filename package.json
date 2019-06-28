@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "Personal atomic css design system",
   "main": "index.js",
-  "repository": "github:canburaks/atomic-css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canburaks/atomic-css.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +14,10 @@
     "atomic-css",
     "css"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "Can Burak Sofyalioglu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/canburaks/atomic-css/issues"
+  },
+  "homepage": "https://github.com/canburaks/atomic-css#readme"
 }
